@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <style>
+    @keyframes slideShow {
+      0% { opacity: 0; transform: translateX(20px); }
+      3% { opacity: 1; transform: translateX(0); }
+      14.66% { opacity: 1; transform: translateX(0); }
+      16.66% { opacity: 0; transform: translateX(-20px); }
+      100% { opacity: 0; transform: translateX(-20px); }
+    }
+    .slide { opacity: 0; animation: slideShow 24s infinite; }
+    .s1 { animation-delay: 0s; }
+    .s2 { animation-delay: 4s; }
+    .s3 { animation-delay: 8s; }
+    .s4 { animation-delay: 12s; }
+    .s5 { animation-delay: 16s; }
+    .s6 { animation-delay: 20s; }
+  </style>
+
+  <rect width="800" height="400" fill="#000000" rx="12" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="40" y="40" font-family="monospace" font-size="12" fill="#67FF5F">// CURRENT FOCUS</text>
+
+  <!-- Slide 1: GemmAgent -->
+  <g class="slide s1" font-family="monospace">
+    <text x="40" y="100" font-size="48" fill="#FFFFFF" fill-opacity="0.05">01</text>
+    <text x="100" y="100" font-size="24" fill="#FFFFFF" font-weight="bold">GemmAgent</text>
+    <text x="100" y="130" font-size="14" fill="#FFFFFF" fill-opacity="0.7">Developer-first AI tools &amp; platforms</text>
+    
+    <line x1="40" y1="150" x2="100" y2="150" stroke="#67FF5F" stroke-width="2"/>
+    <text x="40" y="180" font-size="12" fill="#FFFFFF">Development Progress</text>
+    <rect x="40" y="190" width="400" height="8" fill="#FFFFFF" fill-opacity="0.1" rx="4"/>
+    <rect x="40" y="190" width="328" height="8" fill="#67FF5F" rx="4"/>
+    <text x="450" y="198" font-size="12" fill="#67FF5F">82%</text>
+    
+    <!-- Abstract Icon -->
+    <path d="M600,120 C600,80 640,60 680,80 C720,100 720,140 680,160 C640,180 600,160 600,120 Z" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.3"/>
+    <path d="M620,120 L660,100 L660,140 Z" fill="#67FF5F"/>
+  </g>
+
+  <!-- Slide 2: AI Agents -->
+  <g class="slide s2" font-family="monospace">
+    <text x="40" y="100" font-size="48" fill="#FFFFFF" fill-opacity="0.05">02</text>
+    <text x="100" y="100" font-size="24" fill="#FFFFFF" font-weight="bold">AI Agents</text>
+    <text x="100" y="130" font-size="14" fill="#FFFFFF" fill-opacity="0.7">Autonomous workflows &amp; multi-agent systems</text>
+    
+    <line x1="40" y1="150" x2="100" y2="150" stroke="#67FF5F" stroke-width="2"/>
+    <text x="40" y="180" font-size="12" fill="#FFFFFF">Development Progress</text>
+    <rect x="40" y="190" width="400" height="8" fill="#FFFFFF" fill-opacity="0.1" rx="4"/>
+    <rect x="40" y="190" width="268" height="8" fill="#67FF5F" rx="4"/>
+    <text x="450" y="198" font-size="12" fill="#67FF5F">67%</text>
+    
+    <!-- Abstract Icon -->
+    <circle cx="660" cy="120" r="40" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.3"/>
+    <circle cx="660" cy="120" r="20" fill="none" stroke="#67FF5F" stroke-width="1"/>
+    <circle cx="660" cy="120" r="4" fill="#67FF5F"/>
+  </g>
+
+  <!-- Slide 3: LLM Engineering -->
+  <g class="slide s3" font-family="monospace">
+    <text x="40" y="100" font-size="48" fill="#FFFFFF" fill-opacity="0.05">03</text>
+    <text x="100" y="100" font-size="24" fill="#FFFFFF" font-weight="bold">LLM Engineering</text>
+    <text x="100" y="130" font-size="14" fill="#FFFFFF" fill-opacity="0.7">Fine-tuning, RAG &amp; inference optimization</text>
+    
+    <line x1="40" y1="150" x2="100" y2="150" stroke="#67FF5F" stroke-width="2"/>
+    <text x="40" y="180" font-size="12" fill="#FFFFFF">Development Progress</text>
+    <rect x="40" y="190" width="400" height="8" fill="#FFFFFF" fill-opacity="0.1" rx="4"/>
+    <rect x="40" y="190" width="360" height="8" fill="#67FF5F" rx="4"/>
+    <text x="450" y="198" font-size="12" fill="#67FF5F">90%</text>
+    
+    <!-- Abstract Icon -->
+    <path d="M620,160 L620,80 L640,80 L640,100 L660,100 L660,120 L680,120 L680,140 L700,140 L700,160 Z" fill="none" stroke="#67FF5F" stroke-width="1"/>
+  </g>
+
+  <!-- Slide 4: Full Stack -->
+  <g class="slide s4" font-family="monospace">
+    <text x="40" y="100" font-size="48" fill="#FFFFFF" fill-opacity="0.05">04</text>
+    <text x="100" y="100" font-size="24" fill="#FFFFFF" font-weight="bold">Full Stack</text>
+    <text x="100" y="130" font-size="14" fill="#FFFFFF" fill-opacity="0.7">End-to-end architecture &amp; deployment</text>
+    
+    <line x1="40" y1="150" x2="100" y2="150" stroke="#67FF5F" stroke-width="2"/>
+    <text x="40" y="180" font-size="12" fill="#FFFFFF">Development Progress</text>
+    <rect x="40" y="190" width="400" height="8" fill="#FFFFFF" fill-opacity="0.1" rx="4"/>
+    <rect x="40" y="190" width="384" height="8" fill="#67FF5F" rx="4"/>
+    <text x="450" y="198" font-size="12" fill="#67FF5F">96%</text>
+    
+    <!-- Abstract Icon -->
+    <rect x="620" y="90" width="80" height="60" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.3" rx="4"/>
+    <line x1="620" y1="105" x2="700" y2="105" stroke="#67FF5F" stroke-width="1"/>
+    <circle cx="628" cy="97" r="2" fill="#67FF5F"/>
+  </g>
+
+  <!-- Slide 5: Open Source -->
+  <g class="slide s5" font-family="monospace">
+    <text x="40" y="100" font-size="48" fill="#FFFFFF" fill-opacity="0.05">05</text>
+    <text x="100" y="100" font-size="24" fill="#FFFFFF" font-weight="bold">Open Source</text>
+    <text x="100" y="130" font-size="14" fill="#FFFFFF" fill-opacity="0.7">Contributing to the global dev community</text>
+    
+    <line x1="40" y1="150" x2="100" y2="150" stroke="#67FF5F" stroke-width="2"/>
+    <text x="40" y="180" font-size="12" fill="#FFFFFF">Development Progress</text>
+    <rect x="40" y="190" width="400" height="8" fill="#FFFFFF" fill-opacity="0.1" rx="4"/>
+    <rect x="40" y="190" width="300" height="8" fill="#67FF5F" rx="4"/>
+    <text x="450" y="198" font-size="12" fill="#67FF5F">75%</text>
+    
+    <!-- Abstract Icon -->
+    <circle cx="660" cy="120" r="30" fill="none" stroke="#67FF5F" stroke-width="1"/>
+    <path d="M645,120 A30,30 0 0,0 675,120" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  </g>
+
+  <!-- Slide 6: Available for Work -->
+  <g class="slide s6" font-family="monospace">
+    <text x="40" y="100" font-size="48" fill="#FFFFFF" fill-opacity="0.05">06</text>
+    <text x="100" y="100" font-size="24" fill="#FFFFFF" font-weight="bold">Available for Work</text>
+    <text x="100" y="130" font-size="14" fill="#FFFFFF" fill-opacity="0.7">Open to new opportunities &amp; collaborations</text>
+    
+    <line x1="40" y1="150" x2="100" y2="150" stroke="#67FF5F" stroke-width="2"/>
+    <text x="40" y="180" font-size="12" fill="#FFFFFF">Status</text>
+    <rect x="40" y="190" width="400" height="8" fill="#FFFFFF" fill-opacity="0.1" rx="4"/>
+    <rect x="40" y="190" width="400" height="8" fill="#67FF5F" rx="4"/>
+    <text x="450" y="198" font-size="12" fill="#67FF5F">100%</text>
+    
+    <!-- Abstract Icon -->
+    <path d="M660,80 L700,100 L700,140 L660,160 L620,140 L620,100 Z" fill="none" stroke="#67FF5F" stroke-width="1"/>
+    <circle cx="660" cy="120" r="10" fill="#67FF5F"/>
+  </g>
+
+  <!-- Navigation Dots -->
+  <g transform="translate(350, 340)">
+    <rect x="0" y="0" width="20" height="4" fill="#67FF5F" rx="2"/>
+    <rect x="30" y="0" width="4" height="4" fill="#FFFFFF" fill-opacity="0.2" rx="2"/>
+    <rect x="44" y="0" width="4" height="4" fill="#FFFFFF" fill-opacity="0.2" rx="2"/>
+    <rect x="58" y="0" width="4" height="4" fill="#FFFFFF" fill-opacity="0.2" rx="2"/>
+    <rect x="72" y="0" width="4" height="4" fill="#FFFFFF" fill-opacity="0.2" rx="2"/>
+    <rect x="86" y="0" width="4" height="4" fill="#FFFFFF" fill-opacity="0.2" rx="2"/>
+  </g>
+</svg>

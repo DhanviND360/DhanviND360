@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
+  <style>
+    @keyframes fadeMission {
+      0% { opacity: 0; }
+      3.33% { opacity: 1; }
+      16.66% { opacity: 1; }
+      20% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .mission-slide { opacity: 0; animation: fadeMission 15s infinite; }
+    .m1 { animation-delay: 0s; }
+    .m2 { animation-delay: 3s; }
+    .m3 { animation-delay: 6s; }
+    .m4 { animation-delay: 9s; }
+    .m5 { animation-delay: 12s; }
+  </style>
+  <rect width="800" height="120" fill="#000000" rx="12" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="40" y="40" font-family="monospace" font-size="12" fill="#67FF5F">// MISSION OBJECTIVE</text>
+  
+  <g font-family="monospace" font-size="20" fill="#FFFFFF">
+    <text x="40" y="80" class="mission-slide m1">&gt; Building developer-first AI tools &amp; platforms.</text>
+    <text x="40" y="80" class="mission-slide m2">&gt; Engineering intelligent agents for complex workflows.</text>
+    <text x="40" y="80" class="mission-slide m3">&gt; Optimizing LLM workflows for production scale.</text>
+    <text x="40" y="80" class="mission-slide m4">&gt; Crafting minimalist full-stack solutions.</text>
+    <text x="40" y="80" class="mission-slide m5">&gt; Pushing open source boundaries globally.</text>
+  </g>
+</svg>

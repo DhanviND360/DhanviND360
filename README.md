@@ -26,7 +26,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=dhanvi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=67FF5F&text_color=FFFFFF&icon_color=67FF5F" alt="GitHub Stats" />
           </td>
           <td align="center" style="padding: 10px;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanvi&theme=chartreuse-dark&hide_border=true&background=000000&ring=67FF5F&fire=67FF5F&currStreakLabel=67FF5F&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanviND360&theme=chartreuse-dark&hide_border=true&background=000000&ring=67FF5F&fire=67FF5F&currStreakLabel=67FF5F&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
           </td>
         </tr>
       </table>
@@ -44,7 +44,7 @@
                   <span style="color: #FFFFFF90; font-size: 13px;">Developer-first AI agent framework for complex workflows.</span>
                 </td>
                 <td width="50%" valign="top" style="padding: 12px; border: 1px solid #FFFFFF20; border-radius: 8px; background-color: #050505;">
-                  <a href="https://github.com/dhanvi/HireQuest" style="color: #FFFFFF; text-decoration: none; font-weight: bold; font-size: 16px;">HireQuest</a>
+                  <a href="https://github.com/DhanviND360/HireQuest" style="color: #FFFFFF; text-decoration: none; font-weight: bold; font-size: 16px;">HireQuest</a>
                   <br>
                   <span style="color: #FFFFFF90; font-size: 13px;">Full-stack AI-powered recruitment and matching platform.</span>
                 </td>
@@ -70,7 +70,7 @@
       <img src="assets/tech_stack.svg" width="800" alt="Tech Stack" />
 
       <!-- CONTRIBUTION GRAPH -->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanvi&bg_color=000000&color=FFFFFF&line=67FF5F&point=FFFFFF&area=true&hide_border=true" width="800" alt="Contribution Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhanviND360&bg_color=000000&color=FFFFFF&line=67FF5F&point=FFFFFF&area=true&hide_border=true" width="800" alt="Contribution Graph" />
 
       <!-- MISSION TERMINAL / CONTACT -->
       <table width="800" border="0" cellspacing="0" cellpadding="0" style="margin-top: 24px; border: 1px solid #FFFFFF20; border-radius: 12px; background-color: #000000;">

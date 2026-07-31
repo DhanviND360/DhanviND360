@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+  <style>
+    @keyframes reveal {
+      0% { opacity: 0; }
+      10% { opacity: 1; }
+      100% { opacity: 1; }
+    }
+    @keyframes load {
+      0% { width: 0px; }
+      100% { width: 720px; }
+    }
+    @keyframes showPct {
+      0% { opacity: 0; }
+      95% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    .step { opacity: 0; animation: reveal 1s forwards; }
+    .s1 { animation-delay: 0.5s; }
+    .s2 { animation-delay: 1.2s; }
+    .s3 { animation-delay: 1.9s; }
+    .s4 { animation-delay: 2.6s; }
+    .s5 { animation-delay: 3.3s; }
+    
+    .progress-bar { animation: load 4s forwards; }
+    .pct { animation: showPct 4s forwards; }
+  </style>
+  <rect width="800" height="300" fill="#000000" rx="12" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="40" y="40" font-family="monospace" font-size="12" fill="#67FF5F">// BOOT SEQUENCE</text>
+
+  <g font-family="monospace" font-size="14" fill="#FFFFFF">
+    <text x="40" y="80" class="step s1">[ OK ] Initialized core kernel modules</text>
+    <text x="40" y="110" class="step s2">[ OK ] Mounted virtual file systems</text>
+    <text x="40" y="140" class="step s3">[ OK ] Established secure network connection</text>
+    <text x="40" y="170" class="step s4">[ OK ] Loaded AI inference engines</text>
+    <text x="40" y="200" class="step s5">[ OK ] Synchronized GitHub repositories</text>
+  </g>
+
+  <!-- Progress Bar -->
+  <rect x="40" y="240" width="720" height="6" fill="#FFFFFF" fill-opacity="0.1" rx="3"/>
+  <rect x="40" y="240" width="0" height="6" fill="#67FF5F" rx="3" class="progress-bar"/>
+  
+  <text x="40" y="270" font-family="monospace" font-size="12" fill="#FFFFFF" fill-opacity="0.7">LOADING SYSTEM ASSETS...</text>
+  <text x="760" y="270" font-family="monospace" font-size="12" fill="#67FF5F" text-anchor="end" class="pct">100%</text>
+</svg>

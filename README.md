@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=DhanviND360&repo=GemmAgent&hide_border=true&bg_color=000000&title_color=67FF5F&icon_color=67FF5F&text_color=ffffff&border_color=1e1e1e" alt="GemmAgent repo card"/>
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=DhanviND360&repo=gemmagent_GEMMA&hide_border=true&bg_color=000000&title_color=67FF5F&icon_color=67FF5F&text_color=ffffff&border_color=1e1e1e" alt="GemmAgent repo card"/>
 <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=DhanviND360&repo=HireQuest&hide_border=true&bg_color=000000&title_color=67FF5F&icon_color=67FF5F&text_color=ffffff&border_color=1e1e1e" alt="HireQuest repo card"/>
 <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=DhanviND360&repo=Ballyhoo.ai&hide_border=true&bg_color=000000&title_color=67FF5F&icon_color=67FF5F&text_color=ffffff&border_color=1e1e1e" alt="Ballyhoo.ai repo card"/>
 <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=DhanviND360&repo=HemoConnect&hide_border=true&bg_color=000000&title_color=67FF5F&icon_color=67FF5F&text_color=ffffff&border_color=1e1e1e" alt="HemoConnect repo card"/>

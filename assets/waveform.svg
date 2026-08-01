@@ -1,0 +1,73 @@
+<svg width="100%" viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated activity waveform">
+  <style>
+    .bg{fill:#000}
+    .border{fill:none;stroke:#1e1e1e;stroke-width:1.5}
+    .bar{fill:#67FF5F;transform-box:fill-box;transform-origin:center;animation:wave 1.4s ease-in-out infinite}
+    @keyframes wave{0%,100%{transform:scaleY(.25)}50%{transform:scaleY(1)}}
+  </style>
+  <rect class="bg" width="900" height="90" rx="14"/>
+  <rect class="border" x="1" y="1" width="898" height="88" rx="14"/>
+  <g>
+    <rect class="bar" x="20" y="35" width="6" height="20" rx="3" style="animation-delay:0.00s"/>
+    <rect class="bar" x="34" y="30" width="6" height="30" rx="3" style="animation-delay:0.05s"/>
+    <rect class="bar" x="48" y="25" width="6" height="40" rx="3" style="animation-delay:0.10s"/>
+    <rect class="bar" x="62" y="32" width="6" height="26" rx="3" style="animation-delay:0.15s"/>
+    <rect class="bar" x="76" y="20" width="6" height="50" rx="3" style="animation-delay:0.20s"/>
+    <rect class="bar" x="90" y="28" width="6" height="34" rx="3" style="animation-delay:0.25s"/>
+    <rect class="bar" x="104" y="34" width="6" height="22" rx="3" style="animation-delay:0.30s"/>
+    <rect class="bar" x="118" y="18" width="6" height="54" rx="3" style="animation-delay:0.35s"/>
+    <rect class="bar" x="132" y="26" width="6" height="38" rx="3" style="animation-delay:0.40s"/>
+    <rect class="bar" x="146" y="33" width="6" height="24" rx="3" style="animation-delay:0.45s"/>
+    <rect class="bar" x="160" y="22" width="6" height="46" rx="3" style="animation-delay:0.50s"/>
+    <rect class="bar" x="174" y="30" width="6" height="30" rx="3" style="animation-delay:0.55s"/>
+    <rect class="bar" x="188" y="16" width="6" height="58" rx="3" style="animation-delay:0.60s"/>
+    <rect class="bar" x="202" y="28" width="6" height="34" rx="3" style="animation-delay:0.65s"/>
+    <rect class="bar" x="216" y="34" width="6" height="22" rx="3" style="animation-delay:0.70s"/>
+    <rect class="bar" x="230" y="24" width="6" height="42" rx="3" style="animation-delay:0.75s"/>
+    <rect class="bar" x="244" y="30" width="6" height="30" rx="3" style="animation-delay:0.80s"/>
+    <rect class="bar" x="258" y="20" width="6" height="50" rx="3" style="animation-delay:0.85s"/>
+    <rect class="bar" x="272" y="32" width="6" height="26" rx="3" style="animation-delay:0.90s"/>
+    <rect class="bar" x="286" y="26" width="6" height="38" rx="3" style="animation-delay:0.95s"/>
+    <rect class="bar" x="300" y="18" width="6" height="54" rx="3" style="animation-delay:1.00s"/>
+    <rect class="bar" x="314" y="30" width="6" height="30" rx="3" style="animation-delay:0.02s"/>
+    <rect class="bar" x="328" y="24" width="6" height="42" rx="3" style="animation-delay:0.07s"/>
+    <rect class="bar" x="342" y="34" width="6" height="22" rx="3" style="animation-delay:0.12s"/>
+    <rect class="bar" x="356" y="20" width="6" height="50" rx="3" style="animation-delay:0.17s"/>
+    <rect class="bar" x="370" y="28" width="6" height="34" rx="3" style="animation-delay:0.22s"/>
+    <rect class="bar" x="384" y="16" width="6" height="58" rx="3" style="animation-delay:0.27s"/>
+    <rect class="bar" x="398" y="30" width="6" height="30" rx="3" style="animation-delay:0.32s"/>
+    <rect class="bar" x="412" y="24" width="6" height="42" rx="3" style="animation-delay:0.37s"/>
+    <rect class="bar" x="426" y="33" width="6" height="24" rx="3" style="animation-delay:0.42s"/>
+    <rect class="bar" x="440" y="20" width="6" height="50" rx="3" style="animation-delay:0.47s"/>
+    <rect class="bar" x="454" y="28" width="6" height="34" rx="3" style="animation-delay:0.52s"/>
+    <rect class="bar" x="468" y="18" width="6" height="54" rx="3" style="animation-delay:0.57s"/>
+    <rect class="bar" x="482" y="32" width="6" height="26" rx="3" style="animation-delay:0.62s"/>
+    <rect class="bar" x="496" y="26" width="6" height="38" rx="3" style="animation-delay:0.67s"/>
+    <rect class="bar" x="510" y="34" width="6" height="22" rx="3" style="animation-delay:0.72s"/>
+    <rect class="bar" x="524" y="22" width="6" height="46" rx="3" style="animation-delay:0.77s"/>
+    <rect class="bar" x="538" y="30" width="6" height="30" rx="3" style="animation-delay:0.82s"/>
+    <rect class="bar" x="552" y="16" width="6" height="58" rx="3" style="animation-delay:0.87s"/>
+    <rect class="bar" x="566" y="28" width="6" height="34" rx="3" style="animation-delay:0.92s"/>
+    <rect class="bar" x="580" y="34" width="6" height="22" rx="3" style="animation-delay:0.97s"/>
+    <rect class="bar" x="594" y="24" width="6" height="42" rx="3" style="animation-delay:0.03s"/>
+    <rect class="bar" x="608" y="30" width="6" height="30" rx="3" style="animation-delay:0.08s"/>
+    <rect class="bar" x="622" y="20" width="6" height="50" rx="3" style="animation-delay:0.13s"/>
+    <rect class="bar" x="636" y="32" width="6" height="26" rx="3" style="animation-delay:0.18s"/>
+    <rect class="bar" x="650" y="26" width="6" height="38" rx="3" style="animation-delay:0.23s"/>
+    <rect class="bar" x="664" y="18" width="6" height="54" rx="3" style="animation-delay:0.28s"/>
+    <rect class="bar" x="678" y="30" width="6" height="30" rx="3" style="animation-delay:0.33s"/>
+    <rect class="bar" x="692" y="24" width="6" height="42" rx="3" style="animation-delay:0.38s"/>
+    <rect class="bar" x="706" y="34" width="6" height="22" rx="3" style="animation-delay:0.43s"/>
+    <rect class="bar" x="720" y="20" width="6" height="50" rx="3" style="animation-delay:0.48s"/>
+    <rect class="bar" x="734" y="28" width="6" height="34" rx="3" style="animation-delay:0.53s"/>
+    <rect class="bar" x="748" y="16" width="6" height="58" rx="3" style="animation-delay:0.58s"/>
+    <rect class="bar" x="762" y="32" width="6" height="26" rx="3" style="animation-delay:0.63s"/>
+    <rect class="bar" x="776" y="26" width="6" height="38" rx="3" style="animation-delay:0.68s"/>
+    <rect class="bar" x="790" y="34" width="6" height="22" rx="3" style="animation-delay:0.73s"/>
+    <rect class="bar" x="804" y="22" width="6" height="46" rx="3" style="animation-delay:0.78s"/>
+    <rect class="bar" x="818" y="30" width="6" height="30" rx="3" style="animation-delay:0.83s"/>
+    <rect class="bar" x="832" y="24" width="6" height="42" rx="3" style="animation-delay:0.88s"/>
+    <rect class="bar" x="846" y="33" width="6" height="24" rx="3" style="animation-delay:0.93s"/>
+    <rect class="bar" x="860" y="28" width="6" height="34" rx="3" style="animation-delay:0.98s"/>
+  </g>
+</svg>

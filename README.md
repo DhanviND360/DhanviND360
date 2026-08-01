@@ -78,9 +78,9 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-dhanvi.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=67FF5F&labelColor=000000)]("under construction")
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-under_construction-000000?style=for-the-badge&logo=googlechrome&logoColor=67FF5F&labelColor=000000)]
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-DhanviND360-000000?style=for-the-badge&logo=linkedin&logoColor=67FF5F&labelColor=000000)](https://linkedin.com/in/DhanviND360)
-[![Email](https://img.shields.io/badge/EMAIL-hello%40dhanvi.dev-000000?style=for-the-badge&logo=maildotru&logoColor=67FF5F&labelColor=000000)](mailto: mail launching soon)
+[![Email](https://img.shields.io/badge/EMAIL-launching_soon-000000?style=for-the-badge&logo=maildotru&logoColor=67FF5F&labelColor=000000)]
 
 </div>
 

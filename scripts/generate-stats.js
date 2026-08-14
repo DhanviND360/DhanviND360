@@ -25,6 +25,10 @@ function fmt(n) {
 }
 
 async function main() {
+  if (!TOKEN) {
+    console.log("No GITHUB_TOKEN provided in environment; skipping dynamic stats update.");
+    return;
+  }
   // total stars across owned repos
   const repoData = await gql(`{
     user(login: "${USERNAME}") {

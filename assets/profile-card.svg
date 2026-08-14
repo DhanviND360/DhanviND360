@@ -321,15 +321,15 @@
 
     <!-- stat counters -->
     <text x="470" y="290" font-family="'Courier New', monospace" font-size="11" letter-spacing="1" fill="#8a8a8a">Total Stars</text>
-    <text id="stat-stars" x="470" y="322" font-family="'Courier New', monospace" font-weight="700" font-size="24" fill="#f2f2f2">230</text>
+    <text id="stat-stars" x="470" y="322" font-family="'Courier New', monospace" font-weight="700" font-size="24" fill="#f2f2f2">1</text>
 
     <text x="640" y="290" font-family="'Courier New', monospace" font-size="11" letter-spacing="1" fill="#8a8a8a">Total Commits</text>
-    <text id="stat-commits" x="640" y="322" font-family="'Courier New', monospace" font-weight="700" font-size="24" fill="#f2f2f2">1.2k</text>
+    <text id="stat-commits" x="640" y="322" font-family="'Courier New', monospace" font-weight="700" font-size="24" fill="#f2f2f2">104</text>
 
     <text x="830" y="290" font-family="'Courier New', monospace" font-size="11" letter-spacing="1" fill="#8a8a8a">Pull Requests</text>
-    <text id="stat-prs" x="830" y="322" font-family="'Courier New', monospace" font-weight="700" font-size="24" fill="#f2f2f2">37</text>
+    <text id="stat-prs" x="830" y="322" font-family="'Courier New', monospace" font-weight="700" font-size="24" fill="#f2f2f2">0</text>
 
     <text x="1000" y="290" font-family="'Courier New', monospace" font-size="11" letter-spacing="1" fill="#8a8a8a">Issues Solved</text>
-    <text id="stat-issues" x="1000" y="322" font-family="'Courier New', monospace" font-weight="700" font-size="24" fill="#f2f2f2">29</text>
+    <text id="stat-issues" x="1000" y="322" font-family="'Courier New', monospace" font-weight="700" font-size="24" fill="#f2f2f2">0</text>
   </g>
 </svg>

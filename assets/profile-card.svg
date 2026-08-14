@@ -266,50 +266,50 @@
     <line x1="45" y1="158" x2="395" y2="158" stroke="#222228" stroke-width="1"/>
 
     <!-- Slideshow Section: 'I design and build...' & Projects -->
-    <!-- Slide 1 -->
+    <!-- Slide 1: visible 0-4s of 16s cycle -->
     <g opacity="0">
-      <text x="45" y="185" font-family="'Courier New', Consolas, monospace" font-size="10" letter-spacing="2" fill="#38bdf8">✦ CREATIVE DEVELOPER</text>
+      <text x="45" y="185" font-family="'Courier New', Consolas, monospace" font-size="10" letter-spacing="2" fill="#38bdf8">// CREATIVE DEVELOPER</text>
       <text x="45" y="215" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="600" font-size="18" fill="#f4f4f5">I design and build digital products</text>
       <text x="45" y="240" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="600" font-size="18" fill="#f4f4f5">that make an impact.</text>
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.20;0.25" dur="20s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="16s" begin="0s" repeatCount="indefinite"/>
     </g>
 
-    <!-- Slide 2 -->
+    <!-- Slide 2: visible 4-8s -->
     <g opacity="0">
-      <text x="45" y="185" font-family="'Courier New', Consolas, monospace" font-size="10" letter-spacing="2" fill="#a855f7">✦ FEATURED PROJECT</text>
+      <text x="45" y="185" font-family="'Courier New', Consolas, monospace" font-size="10" letter-spacing="2" fill="#a855f7">// FEATURED PROJECT</text>
       <text x="45" y="215" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="600" font-size="18" fill="#f4f4f5">DevPulse Analytics</text>
-      <text x="45" y="240" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="14" fill="#a1a1aa">Real-time dev performance &amp; workflow insights.</text>
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.20;0.25" dur="20s" begin="5s" repeatCount="indefinite"/>
+      <text x="45" y="240" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="14" fill="#a1a1aa">Real-time dev performance and workflow insights.</text>
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="16s" begin="4s" repeatCount="indefinite"/>
     </g>
 
-    <!-- Slide 3 -->
+    <!-- Slide 3: visible 8-12s -->
     <g opacity="0">
-      <text x="45" y="185" font-family="'Courier New', Consolas, monospace" font-size="10" letter-spacing="2" fill="#34d399">✦ FEATURED PROJECT</text>
+      <text x="45" y="185" font-family="'Courier New', Consolas, monospace" font-size="10" letter-spacing="2" fill="#34d399">// FEATURED PROJECT</text>
       <text x="45" y="215" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="600" font-size="18" fill="#f4f4f5">CloudCanvas Studio</text>
       <text x="45" y="240" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="14" fill="#a1a1aa">Collaborative vector engine built with WebAssembly.</text>
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.20;0.25" dur="20s" begin="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="16s" begin="8s" repeatCount="indefinite"/>
     </g>
 
-    <!-- Slide 4 -->
+    <!-- Slide 4: visible 12-16s -->
     <g opacity="0">
-      <text x="45" y="185" font-family="'Courier New', Consolas, monospace" font-size="10" letter-spacing="2" fill="#fbbf24">✦ FULL-STACK ARCHITECTURE</text>
+      <text x="45" y="185" font-family="'Courier New', Consolas, monospace" font-size="10" letter-spacing="2" fill="#fbbf24">// FULL-STACK ARCHITECTURE</text>
       <text x="45" y="215" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="600" font-size="18" fill="#f4f4f5">Building scalable web apps with</text>
-      <text x="45" y="240" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="14" fill="#a1a1aa">modern, production-grade stacks &amp; cloud systems.</text>
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.20;0.25" dur="20s" begin="15s" repeatCount="indefinite"/>
+      <text x="45" y="240" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="14" fill="#a1a1aa">modern, production-grade stacks and cloud systems.</text>
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="16s" begin="12s" repeatCount="indefinite"/>
     </g>
 
     <!-- Pagination Dots -->
     <circle cx="45" cy="275" r="3.5" fill="#3f3f46">
-      <animate attributeName="fill" values="#f4f4f5;#3f3f46;#3f3f46;#3f3f46" keyTimes="0;0.25;0.99;1" dur="20s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#3f3f46;#f4f4f5;#f4f4f5;#3f3f46;#3f3f46" keyTimes="0;0.03;0.22;0.25;1" dur="16s" begin="0s" repeatCount="indefinite"/>
     </circle>
     <circle cx="63" cy="275" r="3.5" fill="#3f3f46">
-      <animate attributeName="fill" values="#3f3f46;#f4f4f5;#3f3f46;#3f3f46" keyTimes="0;0.25;0.50;1" dur="20s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#3f3f46;#f4f4f5;#f4f4f5;#3f3f46;#3f3f46" keyTimes="0;0.03;0.22;0.25;1" dur="16s" begin="4s" repeatCount="indefinite"/>
     </circle>
     <circle cx="81" cy="275" r="3.5" fill="#3f3f46">
-      <animate attributeName="fill" values="#3f3f46;#f4f4f5;#3f3f46;#3f3f46" keyTimes="0;0.50;0.75;1" dur="20s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#3f3f46;#f4f4f5;#f4f4f5;#3f3f46;#3f3f46" keyTimes="0;0.03;0.22;0.25;1" dur="16s" begin="8s" repeatCount="indefinite"/>
     </circle>
     <circle cx="99" cy="275" r="3.5" fill="#3f3f46">
-      <animate attributeName="fill" values="#3f3f46;#f4f4f5;#3f3f46;#3f3f46" keyTimes="0;0.75;0.99;1" dur="20s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#3f3f46;#f4f4f5;#f4f4f5;#3f3f46;#3f3f46" keyTimes="0;0.03;0.22;0.25;1" dur="16s" begin="12s" repeatCount="indefinite"/>
     </circle>
 
     <!-- Horizontal Divider 2 -->

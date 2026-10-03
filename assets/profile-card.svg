@@ -838,12 +838,12 @@
 
     <g transform="translate(635, 295)">
       <text x="0" y="12" font-family="'Courier New', Consolas, monospace" font-size="10.5" letter-spacing="1" fill="#71717a">Total Commits</text>
-      <text id="stat-commits" x="0" y="48" font-family="'Courier New', Consolas, monospace" font-weight="700" font-size="28" fill="#f4f4f5">167</text>
+      <text id="stat-commits" x="0" y="48" font-family="'Courier New', Consolas, monospace" font-weight="700" font-size="28" fill="#f4f4f5">170</text>
     </g>
 
     <g transform="translate(820, 295)">
       <text x="0" y="12" font-family="'Courier New', Consolas, monospace" font-size="10.5" letter-spacing="1" fill="#71717a">Pull Requests</text>
-      <text id="stat-prs" x="0" y="48" font-family="'Courier New', Consolas, monospace" font-weight="700" font-size="28" fill="#f4f4f5">0</text>
+      <text id="stat-prs" x="0" y="48" font-family="'Courier New', Consolas, monospace" font-weight="700" font-size="28" fill="#f4f4f5">2</text>
     </g>
 
     <g transform="translate(995, 295)">
